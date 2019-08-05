@@ -71,9 +71,9 @@ section.pricing {
 }
 
 a.fb-msg-btn{
-    color: #00d2b5;
+    color: #da552f;
     background-color: #fff; 
-    border: 1px solid #00d2b5;
+    border: 1px solid #da552f;
     display: inline-block;
     font-family: inherit;
     font-size: 18px;
@@ -89,7 +89,7 @@ a.fb-msg-btn{
 }
 a:hover.fb-msg-btn { 
     color: #fff;
-    background-color: #00d2b5;
+    background-color: #da552f;
     border: 1px solid #fff;
 }
 
